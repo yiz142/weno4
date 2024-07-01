@@ -1,0 +1,92 @@
+dataset_name,file_path,schema,examples,dataset_type
+country,datasets/country.csv,"TOTPOP_CY ""2022 Total Population"" Long
+POPDENS_CY ""2022 Population Density (Population per Square Kilometer)"" Double
+POPPRM_CY ""2022 Population Per Mill"" Double
+MALES_CY ""2022 Total Male Population"" Long
+FEMALES_CY ""2022 Total Female Population"" Long
+TOTHH_CY ""2022 Total Households"" Long
+AVGHHSZ_CY ""2022 Average Household Size"" Double
+PAGE01_CY ""2022 Total Population Age 0-14"" Long
+PAGE02_CY ""2022 Total Population Age 15-29""  Long
+PAGE03_CY ""2022 Total Population Age 30-44"" Long
+PAGE04_CY ""2022 Total Population Age 45-59"" Long
+PAGE05_CY ""2022 Total Population Age 60+"" Long
+MAGE01_CY ""2022 Male Population Age 0-14"" Long
+MAGE02_CY ""2022 Male Population Age 15-29"" Long
+MAGE03_CY ""2022 Male Population Age 30-44"" Long
+MAGE04_CY ""2022 Male Population Age 45-59"" Long
+MAGE05_CY ""2022 Male Population Age 60+"" Long
+FAGE01_CY ""2022 Female Population Age 0-14"" Long
+FAGE02_CY ""2022 Female Population Age 15-29"" Long
+FAGE03_CY ""2022 Female Population Age 30-44"" Long
+FAGE04_CY ""2022 Female Population Age 45-59"" Long
+FAGE05_CY ""2022 Female Population Age 60+"" Long
+MRST01_CY ""2022 Marital Status: Single"" Long
+MRST02_CY ""2022 Marital Status: Married"" Long
+MRST03_CY ""2022 Marital Status: Divorced"" Long
+MRST04_CY ""2022 Marital Status: Widowed"" Long
+MRST_BASE ""2022 Marital Status Base"" Long
+EDUC01_CY ""2022 Population Age 6+ by Education: No Education"" Long
+EDUC02_CY ""2022 Population Age 6+ by Education: Elementary"" Long
+EDUC03_CY ""2022 Population Age 6+ by Education: Preparatory"" Long
+EDUC04_CY ""2022 Population Age 6+ by Education: Secondary"" Long
+EDUC05_CY ""2022 Population Age 6+ by Education: Higher"" Long
+EDUC_BASE ""2022 Education Attainment Base"" Long
+UNEMP_CY ""2021 Unemployed Population"" Long 
+PP_CY ""2022 Purchasing Power: Total"" Double
+PPPRM_CY ""2022 Purchasing Power: Per Mill"" Double
+PPPC_CY ""2022 Purchasing Power: Per Capita"" Double
+PPIDX_CY ""2022 Purchasing Power: Index"" Double
+Shape_Length ""Shape_Length"" Double
+Shape_Area ""Shape_Area"" Double
+ID ""ID"" Text
+NAME ""NAME"" Text
+AREA ""AREA"" Double
+grid_code ""grid_code"" Double
+",,csv
+governorate,datasets/governorate.csv,"TOTPOP_CY ""2022 Total Population"" Long,
+POPDENS_CY ""2022 Population Density (Population per Square Kilometer)"" Double, 
+POPPRM_CY ""2022 Population Per Mill"" Double, 
+MALES_CY ""2022 Total Male Population"" Long, 
+FEMALES_CY ""2022 Total Female Population"" Long, 
+TOTHH_CY ""2022 Total Households"" Long, 
+AVGHHSZ_CY ""2022 Average Household Size"" Double, 
+PAGE01_CY ""2022 Total Population Age 0-14"" Long,
+PAGE02_CY ""2022 Total Population Age 15-29"" Long,
+PAGE03_CY ""2022 Total Population Age 30-44"" Long,
+PAGE04_CY ""2022 Total Population Age 45-59"" Long,
+PAGE05_CY ""2022 Total Population Age 60+"" Long,
+MAGE01_CY ""2022 Male Population Age 0-14"" Long,
+MAGE02_CY ""2022 Male Population Age 15-29"" Long,
+MAGE03_CY ""2022 Male Population Age 30-44"" Long，
+MAGE04_CY ""2022 Male Population Age 45-59"" Long ，
+MAGE05_CY ""2022 Male Population Age 60+"" Long，
+FAGE01_CY ""2022 Female Population Age 0-14"" Long，
+FAGE02_CY ""2022 Female Population Age 15-29"" Long，
+FAGE03_CY ""2022 Female Population Age 30-44"" Long，
+FAGE04_CY ""2022 Female Population Age 45-59"" Long，
+FAGE05_CY ""2022 Female Population Age 60+"" Long，
+MRST01_CY ""2022 Marital Status: Single"" Long ，
+MRST02_CY ""2022 Marital Status: Married"" Long，
+MRST03_CY ""2022 Marital Status: Divorced"" Long，
+MRST04_CY ""2022 Marital Status: Widowed"" Long，
+MRST_BASE ""2022 Marital Status Base"" Long，
+EDUC01_CY ""2022 Population Age 6+ by Education: No Education""  Long，
+EDUC02_CY ""2022 Population Age 6+ by Education: Elementary"" Long，
+EDUC03_CY ""2022 Population Age 6+ by Education: Preparatory"" Long ，
+EDUC04_CY ""2022 Population Age 6+ by Education: Secondary"" Long，
+EDUC05_CY ""2022 Population Age 6+ by Education: Higher"" Long，
+EDUC_BASE ""2022 Education Attainment Base"" Long，
+UNEMP_CY ""2021 Unemployed Population"" Long，
+PP_CY ""2022 Purchasing Power: Total"" Double，
+PPPRM_CY ""2022 Purchasing Power: Per Mill"" Double，
+PPPC_CY ""2022 Purchasing Power: Per Capita"" Double，
+PPIDX_CY ""2022 Purchasing Power: Index"" Double，
+Shape_Length ""Shape_Length"" Double ，
+Shape_Area ""Shape_Area"" Double，
+ID ""ID"" Text，
+NAME ""NAME"" Text，
+AREA ""AREA"" Double，
+grid_code ""grid_code"" Double，
+RG_NAME ""RG_NAME"" Text",,csv
+scraper_result,datasets/scraper_result.csv,,,dynamic

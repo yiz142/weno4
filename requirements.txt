@@ -1,0 +1,11 @@
+streamlit
+streamlit_extras
+pandas
+geopandas
+google-generativeai
+sparql_dataframe
+langchain
+langchain_groq
+groq
+datacommons-pandas
+datacommons
